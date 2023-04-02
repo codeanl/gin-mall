@@ -48,6 +48,7 @@ gin-mall/
 
 ## api接口文档
 https://console-docs.apipost.cn/preview/50f3cb038f516dcc/78bc4c4daef5057e
+[![2023-04-02-17-27-16.png](https://i.postimg.cc/HLm9ynkp/2023-04-02-17-27-16.png)](https://postimg.cc/bZ6nXznM)
 
 ## 项目运行
 
@@ -60,7 +61,7 @@ go mod tidy
    			
 ```
  ```
-go rn main.go
+go run main.go
    			
 ```
 
