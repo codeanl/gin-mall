@@ -33,17 +33,17 @@ Golang V1.19.2
 ```
 
 gin-mall/
-├── api
-├── cache
-├── conf
-├── dao
-├── middleware
-├── model
-├── util
-│  └── e
-├── routes
-├── serializer
-└── service
+  ├── api
+  ├── cache
+  ├── conf
+  ├── dao
+  ├── middleware
+  ├── model
+  ├── util
+  │   └── e
+  ├── routes
+  ├── serializer
+  └── service
    			
 ```
 
