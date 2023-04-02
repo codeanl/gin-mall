@@ -54,11 +54,13 @@ https://console-docs.apipost.cn/preview/50f3cb038f516dcc/78bc4c4daef5057e
 - 克隆源代码到本地，推荐使用golang打开;
 - 导入mall.sql;
 - 在conf.ini配置文件中修改数据库账号密码和七牛云key，邮箱stap
-- ```
+- 
+```
 go mod tidy
    			
 ```
-- ```
+-
+ ```
 go rn main.go
    			
 ```
