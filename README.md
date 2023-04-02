@@ -30,6 +30,8 @@ Golang V1.19.2
 
 ## 项目结构
 
+```
+
 gin-mall/
 ├── api
 ├── cache
@@ -42,21 +44,6 @@ gin-mall/
 ├── routes
 ├── serializer
 └── service
-
-```
-main
-	└──java
-            └── com.dormitooryadmin
-	│   │     ├── controller
-	│   │	  ├── dao 
-	│   │	  ├── model 
-	│   │	  └── service 
-	│   └── resources
-  	│   │	  ├── static 
-  	│   │	  └── template
- 	└──test   │
-   	    └──java
-   		  └── com.dormitooryadmin
    			
 ```
 
