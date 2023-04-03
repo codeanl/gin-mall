@@ -31,7 +31,7 @@ Golang V1.19.2
 
 ```
 
-gin-mall/
+gin-mall
   ├── api
   ├── cache
   ├── conf
